@@ -9,7 +9,7 @@ Knucklehead[^1] is a mnemonic, macOS-optimized, 42 key ergonomic columnar layout
 >
 > Under **_active development_**. Expect breaking changes and scarce/incomplete documentation.
 
-<img src="./img/corneish_zen.svg" alt="minusfive's keymap layout graphical representation" width="100%" />
+<img src="./img/lily58.svg" alt="minusfive's keymap layout graphical representation" width="100%" />
 
 ![minusfive's Corne-ish Zen](img/corneish_zen.png)
 
